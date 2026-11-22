@@ -19,3 +19,6 @@ Desktop.ini
 # Editor files
 *.swp
 *.swo
+
+# Folders
+textures/
